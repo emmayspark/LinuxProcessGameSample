@@ -1,2 +1,2 @@
 # LinuxProcessGameSample
-Linux Process game sample integrated with GSDK 
+Linux Process game sample integrated with GSDK.
